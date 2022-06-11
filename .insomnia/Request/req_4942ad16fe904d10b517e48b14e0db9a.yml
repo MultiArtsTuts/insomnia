@@ -1,0 +1,23 @@
+_id: req_4942ad16fe904d10b517e48b14e0db9a
+type: Request
+parentId: fld_3b62686b07494c0a90c1820d88050440
+modified: 1652880049020
+created: 1652451688229
+url: https://delivery.test/api/products
+name: Products
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2RlbGl2ZXJ5LnRlc3QvYXBpL2xvZ2luIiwiaWF0IjoxNjUyNDUxNjMzLCJuYmYiOjE2NTI0NTE2MzMsImp0aSI6IlZSRjEzNXp2RWV3Z0ZUMmIiLCJzdWIiOiIyIiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.i6UmM7FxipqT0HFjmxjwSDVSAMvvw_uaWk13wOT8Kog
+metaSortKey: -1652451551865
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

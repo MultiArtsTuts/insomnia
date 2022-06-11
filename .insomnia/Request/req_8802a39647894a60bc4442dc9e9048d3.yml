@@ -1,0 +1,54 @@
+_id: req_8802a39647894a60bc4442dc9e9048d3
+type: Request
+parentId: fld_1972bff0e16248c1bc080f4eb46b40c3
+modified: 1653861256729
+created: 1653861104140
+url: https://barber-flutter.herokuapp.com/api/register
+name: Register
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_8d4d6ffe4528420f85157563f98d63fc
+      name: name
+      value: AWSGateway
+      description: ""
+    - id: pair_4bd81a1ec78e4716a3a79fb3f152cd40
+      name: last_name
+      value: Gatway
+      description: ""
+    - id: pair_a728ed637b0548e5bcac3c44c8daa0a2
+      name: username
+      value: julia
+      description: ""
+    - id: pair_f847a5ebbabe4e74b90bd1834de388d8
+      name: password
+      value: l3r451l.123.isaac.julia
+      description: ""
+    - id: pair_4f3dbe25b5884b63b09c20ba0229c84f
+      name: email
+      value: aws-gateway@jmello.dev
+      description: ""
+    - id: pair_ad29eda629584a498c7c38d722bc943a
+      name: cpf
+      value: "12365478909"
+      description: ""
+    - id: pair_dc07575e601f4d6f9d36e4d7b2948a1b
+      name: phone
+      value: "71991509770"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_6aa93b46c909420ebf98d9404ae074f2
+authentication: {}
+metaSortKey: -1652451574901.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

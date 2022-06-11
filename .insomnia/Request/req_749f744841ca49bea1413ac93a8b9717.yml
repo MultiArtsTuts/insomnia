@@ -1,0 +1,21 @@
+_id: req_749f744841ca49bea1413ac93a8b9717
+type: Request
+parentId: fld_fcd431140fcc4f889412d5e482bd71ff
+modified: 1654968714970
+created: 1654968540730
+url: https://multistore.test/api/stores
+name: Get Stores
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654967843194
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

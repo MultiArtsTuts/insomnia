@@ -1,0 +1,50 @@
+_id: req_751964c4428a46a8ba0925b1c8502090
+type: Request
+parentId: fld_93cddf8a5b55433289be9aa3dbad6fd3
+modified: 1653717267523
+created: 1653672983398
+url: https://api.mercadopago.com/v1/payments
+name: Create PIX
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+          "transaction_amount": 100,
+          "description": "Título do produto",
+          "payment_method_id": "pix",
+          "payer": {
+            "email": "test@test.com",
+            "first_name": "Test",
+            "last_name": "User",
+            "identification": {
+                "type": "CPF",
+                "number": "19119119100"
+            },
+            "address": {
+                "zip_code": "06233200",
+                "street_name": "Av. das Nações Unidas",
+                "street_number": "3003",
+                "neighborhood": "Bonfim",
+                "city": "Osasco",
+                "federal_unit": "SP"
+            }
+          }
+        }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5e39be88ad944273b6ec403304a98c35
+authentication:
+  type: bearer
+  token: TEST-1642427747646131-012400-1e64c2a386cad7ce62844b0dd622efed-72646826
+metaSortKey: -1653672983398
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

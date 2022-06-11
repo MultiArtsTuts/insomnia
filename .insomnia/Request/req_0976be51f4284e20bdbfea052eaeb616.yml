@@ -1,0 +1,38 @@
+_id: req_0976be51f4284e20bdbfea052eaeb616
+type: Request
+parentId: fld_3b62686b07494c0a90c1820d88050440
+modified: 1654397527504
+created: 1652451582580
+url: https://192.168.2.12/api/login
+name: Login
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_a728ed637b0548e5bcac3c44c8daa0a2
+      name: username
+      value: julia
+      description: ""
+    - id: pair_f847a5ebbabe4e74b90bd1834de388d8
+      name: password
+      value: "123456789"
+      description: ""
+    - id: pair_ee1a37e88e68489ab3bcc130a445c1e0
+      name: ""
+      value: ""
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_6aa93b46c909420ebf98d9404ae074f2
+authentication: {}
+metaSortKey: -1652451582580
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_eb98a78403d94c6ab60e347f138fe9a7
+type: Request
+parentId: fld_fcd431140fcc4f889412d5e482bd71ff
+modified: 1654967859814
+created: 1654967843173
+url: ""
+name: Create Products
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654967843173
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

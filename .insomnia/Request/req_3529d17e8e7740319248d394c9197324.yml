@@ -1,0 +1,33 @@
+_id: req_3529d17e8e7740319248d394c9197324
+type: Request
+parentId: fld_1972bff0e16248c1bc080f4eb46b40c3
+modified: 1653952942582
+created: 1653860878766
+url: https://1iodkdeyjd.execute-api.sa-east-1.amazonaws.com/prod/webhook
+name: webhook API Gateway
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"id": 3,
+    	"notification":"quero cu"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_2b67d9c2f47544d692a99fcf6e4f39f7
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2RlbGl2ZXJ5LnRlc3QvYXBpL2xvZ2luIiwiaWF0IjoxNjUyNDUxNjMzLCJuYmYiOjE2NTI0NTE2MzMsImp0aSI6IlZSRjEzNXp2RWV3Z0ZUMmIiLCJzdWIiOiIyIiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.i6UmM7FxipqT0HFjmxjwSDVSAMvvw_uaWk13wOT8Kog
+  disabled: false
+metaSortKey: -1653788230808.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

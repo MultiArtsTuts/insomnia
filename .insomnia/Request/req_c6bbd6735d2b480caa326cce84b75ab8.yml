@@ -1,0 +1,32 @@
+_id: req_c6bbd6735d2b480caa326cce84b75ab8
+type: Request
+parentId: fld_3b62686b07494c0a90c1820d88050440
+modified: 1654871309599
+created: 1654790094173
+url: https://192.168.2.12/api/notification
+name: Pay Card Status
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - name: notification
+      value: " 7d0b9550-4873-4242-a3e8-10ea06ac4dfa"
+      id: pair_7ae56d06281f408095c3278c6f2d6b0d
+      disabled: false
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_6aa93b46c909420ebf98d9404ae074f2
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovLzE5Mi4xNjguMi4xMi9hcGkvbG9naW4iLCJpYXQiOjE2NTI3Mjg2MDQsIm5iZiI6MTY1MjcyODYwNCwianRpIjoieVQ4VnQ0S0sxODFjb3k5SiIsInN1YiI6IjIiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.WrSAB-lsGGbULX2tJuX62yeM1WXmCR59PHMm8HJH0ps
+metaSortKey: -1652451578740.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

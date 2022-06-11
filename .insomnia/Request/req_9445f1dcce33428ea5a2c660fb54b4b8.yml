@@ -1,0 +1,24 @@
+_id: req_9445f1dcce33428ea5a2c660fb54b4b8
+type: Request
+parentId: fld_1972bff0e16248c1bc080f4eb46b40c3
+modified: 1653954730870
+created: 1653892126076
+url: https://barber-flutter.herokuapp.com/api/config-webhook
+name: webhook config
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2RlbGl2ZXJ5LnRlc3QvYXBpL2xvZ2luIiwiaWF0IjoxNjUyNDUxNjMzLCJuYmYiOjE2NTI0NTE2MzMsImp0aSI6IlZSRjEzNXp2RWV3Z0ZUMmIiLCJzdWIiOiIyIiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.i6UmM7FxipqT0HFjmxjwSDVSAMvvw_uaWk13wOT8Kog
+  disabled: true
+metaSortKey: -1653823704017.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

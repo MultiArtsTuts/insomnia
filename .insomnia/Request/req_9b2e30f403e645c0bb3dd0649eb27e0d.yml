@@ -1,0 +1,23 @@
+_id: req_9b2e30f403e645c0bb3dd0649eb27e0d
+type: Request
+parentId: fld_3b62686b07494c0a90c1820d88050440
+modified: 1652732031959
+created: 1652730930131
+url: https://192.168.2.12/api/paymentpix
+name: PaymentPix
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2RlbGl2ZXJ5LnRlc3QvYXBpL2xvZ2luIiwiaWF0IjoxNjUyNDUxNjMzLCJuYmYiOjE2NTI0NTE2MzMsImp0aSI6IlZSRjEzNXp2RWV3Z0ZUMmIiLCJzdWIiOiIyIiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.i6UmM7FxipqT0HFjmxjwSDVSAMvvw_uaWk13wOT8Kog
+metaSortKey: -1652451567222.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

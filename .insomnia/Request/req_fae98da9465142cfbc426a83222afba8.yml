@@ -1,0 +1,49 @@
+_id: req_fae98da9465142cfbc426a83222afba8
+type: Request
+parentId: fld_3b62686b07494c0a90c1820d88050440
+modified: 1653973982294
+created: 1653972009496
+url: https://192.168.2.12/api/products/
+name: Create Product
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_1e7603ea4b2248119ad2c7d50164bff0
+      name: name
+      value: Product local 2
+      description: ""
+    - id: pair_181205e735884f4c8165f8e10caf4006
+      name: price
+      value: "0.05"
+      description: ""
+    - id: pair_3b43cb2bc32b4996a4ffe11353dc3004
+      name: new_price
+      value: "0.01"
+      description: ""
+    - id: pair_627a974579c040bb98be89f2ccf86f06
+      name: description
+      value: Product created local 2
+      description: ""
+    - id: pair_c3fb5617fb324e6c992ced530e5fc3fa
+      name: offers
+      value: "1"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_830082ba036f46bd9211c6f235576d9a
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovLzE5Mi4xNjguMi4xMi9hcGkvbG9naW4iLCJpYXQiOjE2NTI3Mjg2MDQsIm5iZiI6MTY1MjcyODYwNCwianRpIjoieVQ4VnQ0S0sxODFjb3k5SiIsInN1YiI6IjIiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.WrSAB-lsGGbULX2tJuX62yeM1WXmCR59PHMm8HJH0ps
+  disabled: false
+metaSortKey: -1652772649176.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

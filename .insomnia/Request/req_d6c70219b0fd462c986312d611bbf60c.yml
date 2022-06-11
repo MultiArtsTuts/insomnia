@@ -1,0 +1,23 @@
+_id: req_d6c70219b0fd462c986312d611bbf60c
+type: Request
+parentId: fld_3b62686b07494c0a90c1820d88050440
+modified: 1654305410352
+created: 1653717284390
+url: https://delivery.test/api/coupons/10off
+name: Get Coupon
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovLzE5Mi4xNjguMi4xMi9hcGkvbG9naW4iLCJpYXQiOjE2NTI3Mjg2MDQsIm5iZiI6MTY1MjcyODYwNCwianRpIjoieVQ4VnQ0S0sxODFjb3k5SiIsInN1YiI6IjIiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.WrSAB-lsGGbULX2tJuX62yeM1WXmCR59PHMm8HJH0ps
+metaSortKey: -1652451528828.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

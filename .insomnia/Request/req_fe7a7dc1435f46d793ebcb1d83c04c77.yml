@@ -1,0 +1,23 @@
+_id: req_fe7a7dc1435f46d793ebcb1d83c04c77
+type: Request
+parentId: fld_1972bff0e16248c1bc080f4eb46b40c3
+modified: 1653860215136
+created: 1652754250732
+url: https://barber-flutter.herokuapp.com/api/cart/1
+name: Cart by User
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2RlbGl2ZXJ5LnRlc3QvYXBpL2xvZ2luIiwiaWF0IjoxNjUyNDUxNjMzLCJuYmYiOjE2NTI0NTE2MzMsImp0aSI6IlZSRjEzNXp2RWV3Z0ZUMmIiLCJzdWIiOiIyIiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.i6UmM7FxipqT0HFjmxjwSDVSAMvvw_uaWk13wOT8Kog
+metaSortKey: -1652451521150
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

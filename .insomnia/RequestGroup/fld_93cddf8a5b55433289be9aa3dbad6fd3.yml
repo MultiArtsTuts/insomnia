@@ -1,0 +1,10 @@
+_id: fld_93cddf8a5b55433289be9aa3dbad6fd3
+type: RequestGroup
+parentId: wrk_9b44e4d0aa4548d8aa73c869fb5f9ecd
+modified: 1653672969213
+created: 1653672969213
+name: Mercado Pago API
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1653672969213

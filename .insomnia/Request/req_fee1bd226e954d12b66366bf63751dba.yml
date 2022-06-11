@@ -1,0 +1,61 @@
+_id: req_fee1bd226e954d12b66366bf63751dba
+type: Request
+parentId: fld_fcd431140fcc4f889412d5e482bd71ff
+modified: 1654969990216
+created: 1654968671601
+url: https://multistore.test/api/stores
+name: Create Store
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - name: title
+      value: Loja Julia Dorea
+      id: pair_822f6b6874fc470a94d4f02cd659d903
+    - id: pair_de74626c39f14d1f8ae22adb755824bc
+      name: address
+      value: Tv. Maria das Dores Leite, 09, Cajazeiras 11, Salvador/BA
+      description: ""
+    - id: pair_ee0654d2ff03473aabf22664f8863856
+      name: active
+      value: "1"
+      description: ""
+    - id: pair_34f71c3827ca4332851467287d141d3a
+      name: phone
+      value: "71991509770"
+      description: ""
+    - id: pair_0c488e70e51848268bdfc054421dff57
+      name: phone_1
+      value: "71993794319"
+      description: ""
+    - id: pair_83afdd0614264ef9b6e5f1a90fad5b90
+      name: image
+      value: https://www.iconpacks.net/icons/2/free-store-icon-2017-thumb.png
+      description: ""
+    - id: pair_a9775cbb37fc40d890dbd2810b10efff
+      name: description
+      value: Loja da Julia Doce
+      description: ""
+    - id: pair_7e2ae58d8fff4890b0517954317fc4ef
+      name: lat
+      value: "-12.1321654321"
+      description: ""
+    - id: pair_a539e47127f54b74858e149fc30a0916
+      name: long
+      value: "-38.123165"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_d52be77506754f7babc8089922b39696
+authentication: {}
+metaSortKey: -1654850711603.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

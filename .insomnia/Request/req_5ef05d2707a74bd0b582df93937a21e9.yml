@@ -1,0 +1,29 @@
+_id: req_5ef05d2707a74bd0b582df93937a21e9
+type: Request
+parentId: fld_3b62686b07494c0a90c1820d88050440
+modified: 1653957722552
+created: 1653865861689
+url: https://delivery.test/api/webhook
+name: webhook local
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - id: pair_b5e7417e99d049839aace20bee90feec
+    name: ""
+    value: ""
+    description: ""
+    disabled: true
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2RlbGl2ZXJ5LnRlc3QvYXBpL2xvZ2luIiwiaWF0IjoxNjUyNDUxNjMzLCJuYmYiOjE2NTI0NTE2MzMsImp0aSI6IlZSRjEzNXp2RWV3Z0ZUMmIiLCJzdWIiOiIyIiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.i6UmM7FxipqT0HFjmxjwSDVSAMvvw_uaWk13wOT8Kog
+  disabled: false
+metaSortKey: -1652451574901.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

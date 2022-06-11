@@ -1,0 +1,34 @@
+_id: req_a391e1c0edea4c2ab73ee1533854e5b6
+type: Request
+parentId: fld_1972bff0e16248c1bc080f4eb46b40c3
+modified: 1653861420552
+created: 1652754250738
+url: https://barber-flutter.herokuapp.com/api/login
+name: Login
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_a728ed637b0548e5bcac3c44c8daa0a2
+      name: username
+      value: julia
+      description: ""
+    - id: pair_f847a5ebbabe4e74b90bd1834de388d8
+      name: password
+      value: l3r451l.123.isaac.julia
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_6aa93b46c909420ebf98d9404ae074f2
+authentication: {}
+metaSortKey: -1652451582580
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

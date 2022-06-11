@@ -1,0 +1,23 @@
+_id: req_1efea1ef604c45ed82bedf25e1ae7008
+type: Request
+parentId: fld_3b62686b07494c0a90c1820d88050440
+modified: 1653521159915
+created: 1652931779889
+url: https://192.168.2.12/api/order/ORD-2520224901
+name: Get Order by Trackinh No.
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovLzE5Mi4xNjguMi4xMi9hcGkvbG9naW4iLCJpYXQiOjE2NTI3Mjg2MDQsIm5iZiI6MTY1MjcyODYwNCwianRpIjoieVQ4VnQ0S0sxODFjb3k5SiIsInN1YiI6IjIiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.WrSAB-lsGGbULX2tJuX62yeM1WXmCR59PHMm8HJH0ps
+metaSortKey: -1652665626977.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
